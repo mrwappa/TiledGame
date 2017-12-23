@@ -1,0 +1,163 @@
+c:\users\erik.wapner\documents\visual studio 2017\Projects\TileGame\TileGame\bin\Windows\x86\Debug\TileGame.exe
+c:\users\erik.wapner\documents\visual studio 2017\Projects\TileGame\TileGame\bin\Windows\x86\Debug\TileGame.pdb
+c:\users\erik.wapner\documents\visual studio 2017\Projects\TileGame\TileGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\erik.wapner\documents\visual studio 2017\Projects\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\erik.wapner\documents\visual studio 2017\Projects\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\erik.wapner\documents\visual studio 2017\Projects\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\erik.wapner\documents\visual studio 2017\Projects\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\erik.wapner\documents\visual studio 2017\Projects\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\erik.wapner\documents\visual studio 2017\Projects\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\erik.wapner\documents\visual studio 2017\Projects\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\erik.wapner\documents\visual studio 2017\Projects\TileGame\TileGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\erik.wapner\documents\visual studio 2017\Projects\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\erik.wapner\documents\visual studio 2017\Projects\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\erik.wapner\documents\visual studio 2017\Projects\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\erik.wapner\documents\visual studio 2017\Projects\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\erik.wapner\documents\visual studio 2017\Projects\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\erik.wapner\documents\visual studio 2017\Projects\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\erik.wapner\documents\visual studio 2017\Projects\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\erik.wapner\documents\visual studio 2017\Projects\TileGame\TileGame\obj\x86\Debug\TileGame.csprojResolveAssemblyReference.cache
+c:\users\erik.wapner\documents\visual studio 2017\Projects\TileGame\TileGame\obj\x86\Debug\TileGame.exe
+c:\users\erik.wapner\documents\visual studio 2017\Projects\TileGame\TileGame\obj\x86\Debug\TileGame.pdb
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\TileGame.exe
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\TileGame.pdb
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\obj\x86\Debug\TileGame.csprojResolveAssemblyReference.cache
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\obj\x86\Debug\TileGame.csproj.CoreCompileInputs.cache
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\obj\x86\Debug\TileGame.exe
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\obj\x86\Debug\TileGame.pdb
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Content\PixelFont.xnb
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\spr_link_sheet.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\spr_pixel.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Player\spr_player_back.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Player\spr_player_back_left.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Player\spr_player_back_right.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Player\spr_player_front.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Player\spr_player_front_left.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Player\spr_player_front_right.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Player\spr_player_left.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Player\spr_player_right.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Player\spr_circle.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\spr_pillar.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Player\spr_circle.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Player\spr_player_back.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Player\spr_player_back_left.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Player\spr_player_back_right.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Player\spr_player_front.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Player\spr_player_front_right.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Player\spr_player_left.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Player\spr_player_right.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\spr_link_sheet.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\spr_pillar.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\spr_pixel.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Content\PixelFont.xnb
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\TileGame.exe
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\TileGame.pdb
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\obj\x86\Debug\TileGame.exe
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\obj\x86\Debug\TileGame.pdb
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Maps\test.map
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Maps\test.map
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Content\Content\PixelFont.xnb
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\obj\x86\Debug\TileGame.csprojResolveAssemblyReference.cache
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Player\spr_player_front_left.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\spr_dust.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockBLANK0.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockBLANK1.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockBLANK2.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockBLANK3.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockD.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockDL.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockDR.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockL.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockR.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockU.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockUL.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockUR.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_grassBLANK.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_grassD.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_grassDL.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_grassDR.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_grassL.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_grassR.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_grassU.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_grassUL.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_grassUR.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_pillarL.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_pillarM.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_pillarR.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_grassBLANK.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_grassD.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_grassDL.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_grassDR.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_grassL.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_grassR.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_grassU.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_grassUL.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_grassUR.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_pillarL.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_pillarM.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_pillarR.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_block.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockBLANK0.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockBLANK1.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockBLANK2.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockBLANK3.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockD.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockDL.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockDR.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockL.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockR.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockU.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockUL.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockUR.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\spr_dust.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\spr_boxtest.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\spr_boxtest.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\spr_linetest.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\spr_linetest.png
+C:\Users\erik.wapner\Documents\Project Files\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Player\spr_playerattack.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Player\spr_playerattack.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Dirt\spr_blockDD.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Maps\test1.map
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_grassFILLED.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_grassUDL.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_grassUDR.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_wallL.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_wallLD.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_wallM.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_wallMD.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_wallR.png
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileGame\bin\Windows\x86\Debug\Assets\Sprites\Blocks\Grass\spr_wallRD.png

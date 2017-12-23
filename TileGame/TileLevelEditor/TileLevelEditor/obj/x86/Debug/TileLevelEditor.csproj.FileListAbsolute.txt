@@ -1,0 +1,40 @@
+c:\users\daniel.drottson\documents\visual studio 2010\Projects\TileLevelEditor\TileLevelEditor\bin\Debug\TileLevelEditor.exe
+c:\users\daniel.drottson\documents\visual studio 2010\Projects\TileLevelEditor\TileLevelEditor\bin\Debug\TileLevelEditor.pdb
+c:\users\daniel.drottson\documents\visual studio 2010\Projects\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.frmEditor.resources
+c:\users\daniel.drottson\documents\visual studio 2010\Projects\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.Properties.Resources.resources
+c:\users\daniel.drottson\documents\visual studio 2010\Projects\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.csproj.GenerateResource.Cache
+c:\users\daniel.drottson\documents\visual studio 2010\Projects\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.exe
+c:\users\daniel.drottson\documents\visual studio 2010\Projects\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.pdb
+C:\Users\erik.wapner\Documents\Project Files\C#\TileLevelEditor\TileLevelEditor\bin\Debug\TileLevelEditor.exe
+C:\Users\erik.wapner\Documents\Project Files\C#\TileLevelEditor\TileLevelEditor\bin\Debug\TileLevelEditor.pdb
+C:\Users\erik.wapner\Documents\Project Files\C#\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.csprojResolveAssemblyReference.cache
+C:\Users\erik.wapner\Documents\Project Files\C#\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.frmEditor.resources
+C:\Users\erik.wapner\Documents\Project Files\C#\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.Properties.Resources.resources
+C:\Users\erik.wapner\Documents\Project Files\C#\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.csproj.GenerateResource.Cache
+C:\Users\erik.wapner\Documents\Project Files\C#\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.exe
+C:\Users\erik.wapner\Documents\Project Files\C#\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.pdb
+C:\Users\erik.wapner\Documents\Visual Studio 2017\Projects\Drottson\TileLevelEditor\TileLevelEditor\bin\Debug\TileLevelEditor.exe
+C:\Users\erik.wapner\Documents\Visual Studio 2017\Projects\Drottson\TileLevelEditor\TileLevelEditor\bin\Debug\TileLevelEditor.pdb
+C:\Users\erik.wapner\Documents\Visual Studio 2017\Projects\Drottson\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.csprojResolveAssemblyReference.cache
+C:\Users\erik.wapner\Documents\Visual Studio 2017\Projects\Drottson\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.frmEditor.resources
+C:\Users\erik.wapner\Documents\Visual Studio 2017\Projects\Drottson\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.Properties.Resources.resources
+C:\Users\erik.wapner\Documents\Visual Studio 2017\Projects\Drottson\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.csproj.GenerateResource.Cache
+C:\Users\erik.wapner\Documents\Visual Studio 2017\Projects\Drottson\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.exe
+C:\Users\erik.wapner\Documents\Visual Studio 2017\Projects\Drottson\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.pdb
+C:\Users\erik.wapner\Documents\Visual Studio 2017\Projects\TileGame\TileLevelEditor\TileLevelEditor\bin\Debug\TileLevelEditor.exe
+C:\Users\erik.wapner\Documents\Visual Studio 2017\Projects\TileGame\TileLevelEditor\TileLevelEditor\bin\Debug\TileLevelEditor.pdb
+C:\Users\erik.wapner\Documents\Visual Studio 2017\Projects\TileGame\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.csprojResolveAssemblyReference.cache
+C:\Users\erik.wapner\Documents\Visual Studio 2017\Projects\TileGame\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.frmEditor.resources
+C:\Users\erik.wapner\Documents\Visual Studio 2017\Projects\TileGame\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.Properties.Resources.resources
+C:\Users\erik.wapner\Documents\Visual Studio 2017\Projects\TileGame\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.csproj.GenerateResource.Cache
+C:\Users\erik.wapner\Documents\Visual Studio 2017\Projects\TileGame\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.exe
+C:\Users\erik.wapner\Documents\Visual Studio 2017\Projects\TileGame\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.pdb
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileLevelEditor\TileLevelEditor\bin\Debug\TileLevelEditor.exe
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileLevelEditor\TileLevelEditor\bin\Debug\TileLevelEditor.pdb
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.csprojResolveAssemblyReference.cache
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.frmEditor.resources
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.Properties.Resources.resources
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.csproj.GenerateResource.Cache
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.csproj.CoreCompileInputs.cache
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.exe
+C:\Users\Erik Wapner\Documents\Projects\C#\TileGame\TileLevelEditor\TileLevelEditor\obj\x86\Debug\TileLevelEditor.pdb
