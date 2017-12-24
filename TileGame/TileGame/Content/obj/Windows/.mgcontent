@@ -4,6 +4,6 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Erik Wapner/Documents/Projects/C#/TileGame/TileGame/Content/PixelFont.spritefont</File>
+    <File>C:/Users/Erik Wapner/Documents/GitHub/TiledGame/TileGame/TileGame/Content/PixelFont.spritefont</File>
   </SourceFiles>
 </SourceFileCollection>
